@@ -1,0 +1,30 @@
+body {
+  background-color: #eff0f3;
+}
+
+h1{
+	text-align: center;	
+	margin-top: 100px;
+	font-size: 20px;
+}
+
+#login-bg{
+	margin: 20px; /*margen externo de 20 en los 4 lados*/
+	border: 2px solid #97FFFC; /*border del marco*/
+	padding: 20px;		/*margen interno en los 4 lados*/
+	background-color: #B0D3D2;
+}
+
+.texto{
+	display: block;
+	text-align: center;
+	width: auto;
+	margin: 20px;
+	padding: 10px;
+	border: 2px solid #B0D3D2;
+
+}
+
+.sms{
+	background-color: #97FFFC;
+}
